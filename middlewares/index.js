@@ -1,5 +1,5 @@
 const validation = require("./validation");
-const isValidId = require("./isValidid")
+const isValidId = require("./isValidId")
 const auth = require("./auth")
 
 
